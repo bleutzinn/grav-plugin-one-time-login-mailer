@@ -2,7 +2,7 @@
 
 The **One Time Login Mailer** Plugin is for [Grav CMS](http://github.com/getgrav/grav). 
 
-It sends a One Time Login Link to a known user by email. The actual logging in is handled by the One Time Login Plugin.
+It sends a One Time Login Link to a known user by email. The actual logging in is handled by the [One Time Login Plugin](https://github.com/jgonyea/grav-plugin-one-time-login).
 
 ## Installation
 
