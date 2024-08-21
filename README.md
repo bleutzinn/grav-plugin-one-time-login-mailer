@@ -1,5 +1,7 @@
 # One Time Login Mailer Plugin
 
+***Abandonment Notice:** Creating and improving my plugins for Grav was fun to do, however times are changing and so am I. My interests have shifted away from coding and so I am abandoning my plugins. If you are interested in taking over please follow the ["Abandoned Resource Protocol"](https://learn.getgrav.org/advanced/grav-development#abandoned-resource-protocol). Simply skip the first two steps and refer to this statement in step 3.*
+
 The **One Time Login Mailer** Plugin is for [Grav CMS](http://github.com/getgrav/grav). 
 
 It sends a One Time Login Link to a known user by email. The actual logging in is handled by the [One Time Login Plugin](https://github.com/jgonyea/grav-plugin-one-time-login).
